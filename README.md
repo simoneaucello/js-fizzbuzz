@@ -9,7 +9,9 @@ Crea un container nel DOM , aggiungendo (attraverso la funzione `append()` oppur
 - **BONUS 2:**
 Applica stili differenti agli elementi aggiunti al DOM nel *BONUS 1*, a seconda che il valore inserito sia un numero, un fizz, un buzz o un fizzbuzz.
 ## Svolgimento
-1. creazione ciclo 
-2. scrivere formula per multipli di 3 inserendo la parola 'Fizz' al posto dei numeri
-3. scrivere formula per multipli di 5 inserendo la parola 'Buzz' al posto dei numeri
+1. creazione ciclo numeri da 1 a 100
+2. scrivere formula per multipli di 3 inserendo la parola 'Fizz' al posto dei numeri multipli
+3. scrivere formula per multipli di 5 inserendo la parola 'Buzz' al posto dei numeri multipli
 4. scrivere formula per multipli di 3 e di 5 inserendo la parola 'FizzBuzz' al posto dei numeri
+5. bonus 1
+6. bonus 2
